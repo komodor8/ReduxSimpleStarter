@@ -14,9 +14,7 @@ export default class App extends Component {
     var message = 'Hello world';
     this.log(message)
     return (
-      <div>
-        <div>Landing page - app.js</div>
-      </div>
+      <div>Landing page - app.js</div>
     );
   }
 }
